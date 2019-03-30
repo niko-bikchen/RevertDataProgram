@@ -11,5 +11,5 @@ A program with GUI with 2 text fields: one - for inputting the data, the other f
   1. _Run.java_ - contains _main()_ method, thus runs the whole program.
 * **tests** contains _DataHandlerTest.java_ - java class for testing _DataHandler_ class stored in the _data_handler.jar_.
 
-## Additional info:
+### Additional info:
 Project was developed using Eclipse IDE
