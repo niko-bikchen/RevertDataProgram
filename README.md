@@ -1,5 +1,5 @@
 # RevertDataProgram
-A program with GUI with 2 text fields: one - for inputting the data, the other for displaying reverted inputted data. Also GUI contains a "SEND" button which, using the _data_handler.jar_, calls _read()_ and _write()_ functions, implemnted in the _data_reverser.dll_. First - saves the given data, the second - returns reverted saved data.
+A program with GUI with 2 text fields: one - for inputting the data, the other for displaying reverted inputted data. Also GUI contains a "SEND" button which, using the _data_handler.jar_, calls _write()_ and _read()_ functions, implemnted in the _data_reverser.dll_. First - saves the given data, the second - returns reverted saved data.
 
 ## src folders description ##
 * **misc** contains .h and .cpp files where _read()_ and _write()_ functions are declared and implemented and using which _data_reverser.dll_ was compiled
